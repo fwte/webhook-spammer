@@ -4,7 +4,7 @@ an alright-ish webhook spammer created in javascript. NOTE: this is an early ver
 # disclaimer
 please read the license before doing anything with this tool. 
 
-# skid = fine, skid + selling = not fine 
+# skid + credits = fine, skid + selling + no credit = not fine 
 this tool will always be public, and if you know anyone that is selling this tool please make an issue for this repository with proof. 
 
 # goal
