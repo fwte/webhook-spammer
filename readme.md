@@ -9,5 +9,6 @@ this tool will always be public, and if you know anyone that is selling this too
 
 # final note
 i am not responsible for anything that happens or results in you using this tool. 
+5+ reactions = release of v1.0.1 / a version which can work with multiple webhooks, proxy, etc
 
 # thanks for reading. 
